@@ -103,6 +103,12 @@ Currently working at **Electronic Health Solutions (EHS)**, and leading **Safar 
 💼 **LinkedIn:** [Musab Al-Zoubi](https://www.linkedin.com/in/musabmalzoubi)  
 📱 **WhatsApp:** [+962 77 6079926](https://wa.me/962776079926)  
 
+## 💼 Freelance Profiles
+
+- [Freelancer](https://www.freelancer.com/u/Musab21alzoubii)
+- [PeoplePerHour](https://pph.me/musab-alzoubi)
+- [Contra](https://contra.com/musab_al_zoubi_hor88uw0/work)
+
 ---
 
 ⭐ **If you find my work valuable, feel free to give my repositories a star!**
