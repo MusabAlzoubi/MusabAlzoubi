@@ -1,114 +1,43 @@
-# Hi there, I'm Musab Al-Zoubi! 👋
+# Musab Al-Zoubi
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/musabmalzoubi">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/qahwa.dopamind">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/musab_digitransform">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:musab.m.alzoubii@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
+**Backend Software Engineer | PHP · Laravel · Yii2 · REST APIs · MySQL**
 
-🚀 **Software Engineer | Full Stack Web Developer**  
-💻 **Laravel | Moodle | WHMCS | MagnusBilling | PHP | Yii2 | MUMPS | Docker | Linux | VPS**  
-🌍 Passionate about building **scalable, secure, and high-performance applications** in education and healthcare.
+Amman, Jordan · [Email](mailto:musab.m.alzoubii@gmail.com) · [LinkedIn](https://www.linkedin.com/in/musabmalzoubi/) · [Portfolio](https://invosync.dopamind.cloud/)
 
----
+I build backend systems and integrations that turn complex operational requirements into clear, maintainable workflows. My work spans digital health, e-learning, hosting and billing, and e-invoicing.
 
-## 🌟 About Me
+At Electronic Health Solutions, I develop PHP/Yii2 backend modules and APIs for healthcare and government-service workflows, including authorization, integrations, background processing, and reporting. I have also built Laravel applications and integrations involving Moodle, WHMCS, billing, payments, and external services.
 
-I'm a full-stack software engineer with deep expertise in **Laravel**, **Moodle integration**, and **healthcare IT systems** like **VistA (MUMPS)**.  
-Currently working at **Electronic Health Solutions (EHS)**, and leading **Safar AI**—a Laravel-Moodle based intelligent e-learning platform.
+## Focus Areas
 
-💡 **Key Strengths:**
-- 🔹 Laravel, Yii2, Livewire, Vue.js, React, .NET, AJAX
-- 🔹 Moodle, WHMCS, MagnusBilling, WordPress
-- 🔹 Docker, Linux, VirtualBox, VPS, AWS
-- 🔹 REST APIs, Postman, Swagger
-- 🔹 MySQL, Firebase, PostgreSQL
-- 🔹 UI/UX with Tailwind, Bootstrap, Sass, Figma, Photoshop
+- Backend development with PHP, Laravel, and Yii2
+- REST API design and third-party integrations
+- MySQL data models and workflow implementation
+- Authorization (RBAC), validation, audit trails, and reporting
+- Production troubleshooting and cross-functional delivery
 
----
+## Technologies
 
-## 📊 GitHub Stats
+**Backend:** PHP, Laravel, Yii2  
+**APIs & data:** REST APIs, MySQL, SQL, Swagger/OpenAPI  
+**Platforms & integrations:** VistA/MUMPS, Moodle, H5P, Rasa, WHMCS, payment and billing integrations  
+**Tools & delivery:** Git, Linux, Docker, Postman, Pest  
+**Additional experience:** JavaScript, React, HTML, CSS, Bootstrap, AWS
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusabAlzoubi&layout=compact&theme=radical" alt="Top Languages">
-</p>
+## Selected Work
 
----
+- **InvoSync** — Independently built an e-invoicing product integrating with Jordan's national e-invoicing system. [Product](https://invosync.dopamind.cloud/)
+- **Healthcare backend systems** — Developed PHP/Yii2 modules and integrations for healthcare workflows at EHS.
+- **E-learning integrations** — Connected Laravel applications with Moodle, H5P, Rasa, and Python-based voice services.
+- **Hosting and billing systems** — Built Laravel support workflows and customized WHMCS integrations with payment and hosting services.
 
-## 🚀 Tech Stack
+## Education
 
-### 🧠 Programming Languages & Frameworks & Packages
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/Yii2-3C3C3C?style=for-the-badge&logo=yii&logoColor=white">
-  <img src="https://img.shields.io/badge/Livewire-purple?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-</p>
+**B.Sc. Artificial Intelligence Engineering and Robotics**  
+Al-Balqa Applied University · 2019–2023
 
-### 🧰 Tools & Platforms
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
-  <img src="https://img.shields.io/badge/Moodle-F98218?style=for-the-badge&logo=moodle&logoColor=white">
-  <img src="https://img.shields.io/badge/WHMCS-0033A0?style=for-the-badge&logo=whmcs&logoColor=white">
-  <img src="https://img.shields.io/badge/MagnusBilling-darkgreen?style=for-the-badge">
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
-</p>
+## Connect
 
-### ☁️ Databases & Hosting
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/VPS-grey?style=for-the-badge">
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white">
-  <img src="https://img.shields.io/badge/Hostinger-5333ED?style=for-the-badge&logo=hostinger&logoColor=white">
-</p>
-
-### 🎨 Design & UI
-<p align="center">
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white">
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
-</p>
-
----
-
-## 📞 Let's Connect
-
-📧 **Email:** [musab.m.alzoubii@gmail.com](mailto:musab.m.alzoubii@gmail.com)  
-💼 **LinkedIn:** [Musab Al-Zoubi](https://www.linkedin.com/in/musabmalzoubi)  
-📱 **WhatsApp:** [+962 77 6079926](https://wa.me/962776079926)  
-
-## 💼 Freelance Profiles
-
-- [Freelancer](https://www.freelancer.com/u/Musab21alzoubii)
-- [PeoplePerHour](https://pph.me/musab-alzoubi)
-- [Contra](https://contra.com/musab_al_zoubi_hor88uw0/work)
-
----
-
-⭐ **If you find my work valuable, feel free to give my repositories a star!**
+- [LinkedIn](https://www.linkedin.com/in/musabmalzoubi/)
+- [Portfolio — InvoSync](https://invosync.dopamind.cloud/)
+- [Email](mailto:musab.m.alzoubii@gmail.com)
